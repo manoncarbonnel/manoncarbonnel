@@ -2,11 +2,11 @@
 
 I am a fullstack web developper and integrator.
 
-✨ I work at @Conserto
-
-🥐  I live in France
-
 😄 Pronouns: She/Her
+
+🥐 Location: France
+
+✨ Company: @Conserto
 
 ⚡ Fun fact: I love CSS !
 
@@ -14,7 +14,7 @@ I am a fullstack web developper and integrator.
 
 I care about clean code and testing. I believe in Agile and DevOps cultures.
 
-I love a good tutorial and documentation. So I made 3 repository dedicated to clean code, dev tools, and test tools for:
+I love a good tutorial and documentation. So I made 3 repositories dedicated to clean code, dev tools, and test tools for:
 
 * 🎨 [CSS](https://github.com/manoncarbonnel/css-best-practices)
 * 🐘 [PHP](https://github.com/manoncarbonnel/php-tools-tutorials)
