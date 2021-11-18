@@ -1,14 +1,18 @@
 # Oh hi ! 👋
 
-I am a fullstack web developper and integrator.
+I am a fullstack web developper and integrator, and junior Scrum master.
 
 😄 Pronouns: She/Her
 
 🥐 Location: France
 
-✨ Company: @Conserto
+✨ Company: [@Conserto](https://conserto.pro/)
 
 ⚡ Fun fact: I love CSS !
+
+🌊 I’m currently building a frontend community
+
+🌱 I’m currently learning <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="VueJS logo"/> [VueJS](https://vuejs.org/)
 
 ## About me
 
@@ -24,7 +28,9 @@ Please don't hesitate to contribute if you find them useful.
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/manon-carbonnel/)
+<a href="https://www.linkedin.com/in/manon-carbonnel/">
+  <img width="30px" alt="Manon's LinkedIn" src="https://img.icons8.com/color/50/000000/linkedin.png"/>
+</a>
 
 ## Stats
 
