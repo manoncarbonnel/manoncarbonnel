@@ -10,7 +10,7 @@ I am a fullstack web developper and integrator, and junior Scrum master.
 
 ⚡ Fun fact: I love CSS !
 
-🌊 I’m currently building a frontend community
+🌊 I’m currently building a frontend community called Csscade
 
 🌱 I’m currently learning <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="VueJS logo"/> [VueJS](https://vuejs.org/)
 
