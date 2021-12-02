@@ -12,7 +12,7 @@ I am a fullstack web developper and integrator, and junior Scrum master.
 
 🌊 I’m currently building a frontend community called Csscade
 
-🌱 I’m currently learning <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="VueJS logo"/> [VueJS](https://vuejs.org/)
+🌱 I’m currently learning <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="VueJS logo"/> [VueJS](https://vuejs.org/) & <img width="18px" src="https://img.icons8.com/color/480/mongodb.png" alt="MongoDB logo"/> [MongoDB](https://www.mongodb.com/)
 
 ## About me
 
