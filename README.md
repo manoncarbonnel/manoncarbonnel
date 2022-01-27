@@ -6,13 +6,13 @@ I am a fullstack web developper and integrator, and junior Scrum master.
 
 🥐 Location: France
 
-⚡ Fun fact: I love CSS !
+⚡ Statement: I love CSS !
 
 🌊 Founder of [Csscade](https://github.com/Csscade) the french community of web integrators
 
 ✨ Company: [@Conserto](https://conserto.pro/)
 
-🌱 I’m currently learning <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="VueJS logo"/> [VueJS](https://vuejs.org/) & <img width="18px" src="https://img.icons8.com/color/480/mongodb.png" alt="MongoDB logo"/> [MongoDB](https://www.mongodb.com/)
+🌱 I’m currently learning <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="VueJS logo"/> [VueJS](https://vuejs.org/), <img width="18px" src="https://vitejs.dev/logo.svg" alt="ViteJS logo"/> [ViteJS](https://vitejs.dev/), <img width="18px" src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" alt="Cypress logo"/> [Cypress.io](https://www.cypress.io/) & <img width="18px" src="https://img.icons8.com/color/480/mongodb.png" alt="MongoDB logo"/> [MongoDB](https://www.mongodb.com/)
 
 ## About me
 
