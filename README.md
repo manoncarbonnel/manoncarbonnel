@@ -1,6 +1,6 @@
 # Oh hi ! 👋
 
-I am a fullstack web developper and integrator, and junior Scrum master.
+I am a web developper and integrator, and junior Scrum master.
 
 😄 Pronouns: She/Her
 
