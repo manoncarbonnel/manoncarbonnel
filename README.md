@@ -29,7 +29,11 @@ Please don't hesitate to contribute if you find them useful.
 ## Find me
 
 <a href="https://www.linkedin.com/in/manon-carbonnel/">
-  <img width="30px" alt="Manon's LinkedIn" src="https://img.icons8.com/color/50/000000/linkedin.png"/>
+  <img width="25px" alt="Manon's LinkedIn profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>
+</a>
+
+<a href="https://sessionize.com/manon-carbonnel/">
+  <img width="25px" alt="Manon's Sessionize profile" src="https://sessionize.com/landing/images/brand/logo/sessionize-avatar.png"/>
 </a>
 
 ## Stats
