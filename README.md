@@ -6,7 +6,7 @@ I am a web developper and integrator, and junior Scrum master.
 
 🥐 Location: France
 
-⚡ Statement: I love CSS ! <img width="36px" src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png" alt="CSS logo"/>
+⚡ Statement: I love CSS ! <img height="17px" src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png" alt="CSS logo"/>
 
 🌊 Founder of [Csscade](https://github.com/Csscade) the french community of web integrators
 
