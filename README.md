@@ -32,6 +32,10 @@ Please don't hesitate to contribute if you find them useful.
   <img width="25px" alt="Manon's LinkedIn profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>
 </a>
 
+<a href="https://medium.com/@manon.carbonnel">
+  <img width="25px" alt="Manon's Medium profile" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/>
+</a>
+
 <a href="https://sessionize.com/manon-carbonnel/">
   <img width="25px" alt="Manon's Sessionize profile" src="https://sessionize.com/landing/images/brand/logo/sessionize-avatar.png"/>
 </a>
