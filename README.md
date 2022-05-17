@@ -36,6 +36,10 @@ Please don't hesitate to contribute if you find them useful.
   <img width="25px" alt="Manon's Medium profile" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/>
 </a>
 
+<a href="https://codepen.io/manoncarbonnel">
+  <img width="25px" alt="Manon's Codepen profile" src="https://img2.freepng.fr/20190213/fac/kisspng-computer-icons-scalable-vector-graphics-portable-n-3d-outlined-shape-svg-png-icon-free-download-39-5c63fc65b2a949.9680413615500565497318.jpg"/>
+</a>
+
 <a href="https://sessionize.com/manon-carbonnel/">
   <img width="25px" alt="Manon's Sessionize profile" src="https://sessionize.com/landing/images/brand/logo/sessionize-avatar.png"/>
 </a>
