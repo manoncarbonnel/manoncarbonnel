@@ -23,6 +23,7 @@ I love a good tutorial and documentation. So I made 3 repositories dedicated to 
 * 🎨 [CSS](https://github.com/manoncarbonnel/css-best-practices)
 * 🐘 [PHP](https://github.com/manoncarbonnel/php-tools-tutorials)
 * 🐍 [Python](https://github.com/manoncarbonnel/python-tools-tutorials)
+* 🟨 [JS](https://github.com/manoncarbonnel/js-tools-tutorials)
 
 Please don't hesitate to contribute if you find them useful.
 
