@@ -6,21 +6,21 @@ I am a web developper and integrator, and Agile facilitator.
 
 🥐 Location: France, Rennes
 
-⚡ Statement: I love CSS ! <code><img height="17px" src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png" alt="CSS logo"/></code> and software teaming 
-
-🌊 Founder: [Csscade](https://github.com/Csscade), the french community of web integrators. Come join us!
-
-<img width="14px" src="https://www.myfrenchstartup.com/logo/5874f4fd4ffbdlogo-conserto-pictogramme.png" alt="Conserto logo"/> Company: [@Conserto](https://conserto.pro/) 👀 #ExplosConserto
+⚡ Statement: I love CSS ! <code><img height="17px" src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png" alt="CSS logo"/></code> and software teaming
 
 🌱 Learning: <a href="https://vuejs.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="VueJS logo"/></code></a> <a href="https://kubernetes.io/)"><code><img width="18px" src="https://kubernetes.io/images/favicon.png" alt="Kubernetes logo"/></code></a>
 
-**Find me on social medias:**
+🌊 Founder: [Csscade](https://github.com/Csscade), the french community of web integrators. Come join us!
+
+## Follow me
+
+You can find me on social medias, read my blog posts, see some code pens or replays using my Linktree:
 
 <a href="https://linktr.ee/manoncarbonnel">
   <img width="25px" alt="Manon's Linktree profile" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png"/>
 </a>
 
-## I am a speaker
+## Speaker
 
 <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/9L67stmTvm9DSEGUPh3I_sessionize.png" alt="Sessionize logo"/> I give [talks](https://sessionize.com/manon-carbonnel/) during brown bag lunches. You can send me a DM if you want to setup a meetup.
 
@@ -60,11 +60,15 @@ I love a good tutorial and documentation. So I made 4 repositories dedicated to 
 
 Please don't hesitate to contribute if you find them useful.
 
+***
+
 Interested with web integration and getting stuff done the easy and clean way ?
 
 No ? 👉 read [this](https://medium.com/@manon.carbonnel/why-dont-developers-like-css-947a1b2ecaaf).
 
-Yes ? 👉 I teach about best practices in web integration and CSS. Here are my slides :
+Yes ? 👉 I teach about best practices in web integration and CSS.
+
+Here are my slides for beginners :
 
 <code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS 3 logo"/></code> [Part I - Basics](https://manoncarbonnel.github.io/css-best-practices/training/en/slides.html#1)
 
