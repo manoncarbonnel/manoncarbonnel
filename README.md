@@ -1,12 +1,12 @@
 # Oh hi ! 👋
 
-I am a web developper and integrator, and junior Scrum master.
+I am a web developper and integrator, and Agile facilitator.
 
 😄 Pronouns: She/Her
 
-🥐 Location: France
+🥐 Location: France, Rennes
 
-⚡ Statement: I love CSS ! <code><img height="17px" src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png" alt="CSS logo"/></code>
+⚡ Statement: I love CSS ! <code><img height="17px" src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png" alt="CSS logo"/></code> and software teaming 
 
 🌊 Founder: [Csscade](https://github.com/Csscade), the french community of web integrators. Come join us!
 
@@ -14,9 +14,24 @@ I am a web developper and integrator, and junior Scrum master.
 
 🌱 Learning: <a href="https://vuejs.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="VueJS logo"/></code></a> <a href="https://kubernetes.io/)"><code><img width="18px" src="https://kubernetes.io/images/favicon.png" alt="Kubernetes logo"/></code></a>
 
+**Find me on social medias:**
+
+<a href="https://linktr.ee/manoncarbonnel">
+  <img width="25px" alt="Manon's Linktree profile" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png"/>
+</a>
+
+## I am a speaker
+
+<img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/9L67stmTvm9DSEGUPh3I_sessionize.png" alt="Sessionize logo"/> I give [talks](https://sessionize.com/manon-carbonnel/) during brown bag lunches. You can send me a DM if you want to setup a meetup.
+
+I spoke at :
+
+* <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/V3odxu6iRcCdZoNqUvT1_alpescraft.png" alt="AlpesCraft logo"/> [AlpesCraft](https://www.alpescraft.fr/) 2023 - "Crafting better UIs, thinking of the DOM as an API"
+* <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/RVSqur9xQ4SPVRR2jua0_promyze.png" alt="Promuze logo"/> [Webinar Promyze](https://youtu.be/_0-ZyuY0xdA) - "Crafting better UIs, thinking of the DOM as an API" + Bonus: "Are HTML and CSS real programming languages?"
+
 ## Women in tech
 
-I proudly participate in this movement to promote and help women:
+I proudly participate in this movement to promote and help women and LGBT+ folks:
 
 <img width="14px" src="https://github.com/DuchessFrance/duchessfr/blob/master/communication/Logo%20Worldwide/duchess_200x200pt_nobg.png?raw=true" alt="Duchess France logo"/> Member: [Duchess France](http://www.duchess-france.fr/), a french community of women in tech.
 
@@ -24,11 +39,7 @@ I proudly participate in this movement to promote and help women:
 
 <img width="14px" src="https://estimnumerique.com/wp-content/uploads/2018/01/logo-estim-blanc-138x60.png" alt="ESTIMnumerique logo"/> Mentor:  [ESTIMnumerique](https://estimnumerique.com/), a french association which promotes and helps women in tech.
 
-## Find me on social medias
-
-<a href="https://linktr.ee/manoncarbonnel">
-  <img width="25px" alt="Manon's Linktree profile" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png"/>
-</a>
+<img width="14px" src="https://whorunthetech.com/wp-content/uploads/2023/05/who-run-the-tech-logo-V2-1.png" alt="Who Run The Tech logo"/> Teamer: [Who Run The Tech](https://whorunthetech.com/), the french 100% women and gender minorities tech experts event.
 
 ## Certifications
 
@@ -36,7 +47,7 @@ I proudly participate in this movement to promote and help women:
   <img width="50px" alt="Scrum.org PSM1 badge" src="https://static.scrum.org/web/badges/badge-psmi.svg"/>
 </a>
 
-## About me
+## Learn with me
 
 I care about clean code and testing. I believe in Agile and DevOps cultures.
 
@@ -48,8 +59,6 @@ I love a good tutorial and documentation. So I made 4 repositories dedicated to 
 * 🟨 [JS](https://github.com/manoncarbonnel/js-tools-tutorials)
 
 Please don't hesitate to contribute if you find them useful.
-
-## Learn with me
 
 Interested with web integration and getting stuff done the easy and clean way ?
 
