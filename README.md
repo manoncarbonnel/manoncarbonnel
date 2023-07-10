@@ -35,7 +35,7 @@ I proudly participate in this movement to promote and help women and LGBT+ folks
 
 <img width="14px" src="https://github.com/DuchessFrance/duchessfr/blob/master/communication/Logo%20Worldwide/duchess_200x200pt_nobg.png?raw=true" alt="Duchess France logo"/> Member: [Duchess France](http://www.duchess-france.fr/), a french community of women in tech.
 
-<img width="14px" src="https://media.licdn.com/dms/image/C4E0BAQF90_Jhto4x8g/company-logo_200_200/0/1663758297626?e=2147483647&v=beta&t=dP8fs6t31RyzFTzJSWhhEdr3Ec4mAE5HhHjJ2wDY3w0" alt="La Fresque Du Sexisme logo"/> Facilitator: [La Fresque Du Sexisme](https://www.linkedin.com/company/fresque-du-sexisme/), an educational workshop that unravels, in 3 hours, the sexist mechanics at work in our societies.
+<img width="14px" src="https://media.licdn.com/dms/image/C4E0BAQF90_Jhto4x8g/company-logo_200_200/0/1663758297626?e=2147483647&v=beta&t=dP8fs6t31RyzFTzJSWhhEdr3Ec4mAE5HhHjJ2wDY3w0" alt="La Fresque Du Sexisme logo"/> Facilitator: [La Fresque Du Sexisme](https://fresque-du-sexisme.org/), an educational workshop that unravels, in 3 hours, the sexist mechanics at work in our societies.
 
 <img width="14px" src="https://estimnumerique.com/wp-content/uploads/2018/01/logo-estim-blanc-138x60.png" alt="ESTIMnumerique logo"/> Mentor:  [ESTIMnumerique](https://estimnumerique.com/), a french association which promotes and helps women in tech.
 
