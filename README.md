@@ -26,7 +26,7 @@ You can find me on social medias, read my blog posts, see some code pens or repl
 
 I spoke at :
 
-* <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/V3odxu6iRcCdZoNqUvT1_alpescraft.png" alt="AlpesCraft logo"/> [AlpesCraft](https://www.alpescraft.fr/) 2023 - "Crafting better UIs, thinking of the DOM as an API"
+* <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/V3odxu6iRcCdZoNqUvT1_alpescraft.png" alt="AlpesCraft logo"/> [AlpesCraft](https://youtu.be/rzPwyMVVAQI) 2023 - "Crafting better UIs, thinking of the DOM as an API"
 * <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/RVSqur9xQ4SPVRR2jua0_promyze.png" alt="Promuze logo"/> [Webinar Promyze](https://youtu.be/_0-ZyuY0xdA) - "Crafting better UIs, thinking of the DOM as an API" + Bonus: "Are HTML and CSS real programming languages?"
 
 ## Women in tech
