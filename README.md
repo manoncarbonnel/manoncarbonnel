@@ -41,6 +41,8 @@ I proudly participate in this movement to promote and help women and LGBT+ folks
 
 <img width="14px" src="https://whorunthetech.com/wp-content/uploads/2023/05/who-run-the-tech-logo-V2-1.png" alt="Who Run The Tech logo"/> Teamer: [Who Run The Tech](https://whorunthetech.com/), the french 100% women and gender minorities tech experts event.
 
+📖 Activist: I made a [guide](https://medium.com/@manon.carbonnel/favoriser-la-mixit%C3%A9-dans-les-conf%C3%A9rences-tech-un-guide-introduction-478ade9e96b3) for organization teams to promote diversity in tech conferences.
+
 ## Certifications
 
 <a href="https://www.scrum.org/user/706587">
