@@ -6,7 +6,7 @@ I am a web developper and integrator, and Agile facilitator.
 
 🥐 Location: France, Rennes
 
-⚡ Statement: I love CSS ! <code><img height="17px" src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png" alt="CSS logo"/></code> and software teaming
+⚡ Statement: I love CSS ! <code><img height="17px" src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png" alt="CSS logo"/></code> and mob programming
 
 🌱 Learning: <a href="https://vuejs.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="VueJS logo"/></code></a> <a href="https://kubernetes.io/)"><code><img width="18px" src="https://kubernetes.io/images/favicon.png" alt="Kubernetes logo"/></code></a>
 
