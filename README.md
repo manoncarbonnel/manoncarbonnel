@@ -14,11 +14,9 @@ I am a web developper and integrator, and Agile facilitator.
 
 ## Follow me
 
-You can find me on social medias, read my blog posts, see some code pens or replays using my Linktree:
+You can find me on social medias, read my blog posts, book a meet on my calendar or see my replays here :
 
-<a href="https://linktr.ee/manoncarbonnel">
-  <img width="25px" alt="Manon's Linktree profile" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png"/>
-</a>
+🍱 [Bento](https://bento.me/manoncarbonnel)
 
 ## Speaker
 
@@ -75,6 +73,10 @@ Here are my slides for beginners :
 <code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS 3 logo"/></code> [Part I - Basics](https://manoncarbonnel.github.io/css-best-practices/training/en/slides.html#1)
 
 <code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="Sass logo"/></code> [Part II - Preprocessors](https://manoncarbonnel.github.io/css-best-practices/training/en/preprocessors/slides.html#1)
+
+***
+
+I also like to practise programming with [code katas](https://github.com/manoncarbonnel?tab=repositories&q=kata).
 
 ## Stats
 
