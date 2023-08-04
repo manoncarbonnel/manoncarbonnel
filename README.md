@@ -8,7 +8,7 @@ I am a web developper and integrator, and Agile facilitator.
 
 ⚡ Statement: I love CSS ! <code><img height="17px" src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png" alt="CSS logo"/></code> and mob programming
 
-🌱 Learning: <a href="https://vuejs.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="VueJS logo"/></code></a> <a href="https://kubernetes.io/)"><code><img width="18px" src="https://kubernetes.io/images/favicon.png" alt="Kubernetes logo"/></code></a>
+🌱 Learning: <a href="https://www.typescriptlang.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript logo"/></code></a>
 
 🌊 Founder: [Csscade](https://github.com/Csscade), the french community of web integrators. Come join us!
 
