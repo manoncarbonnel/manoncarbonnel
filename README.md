@@ -1,3 +1,5 @@
+![shodo-ghibli-ultrawide](https://github.com/manoncarbonnel/manoncarbonnel/assets/6471771/d5d28181-91fe-45e5-9ce5-0222259eaf6a)
+
 # Oh hi ! 👋
 
 I am a web developper and integrator, and Agile facilitator.
@@ -6,11 +8,13 @@ I am a web developper and integrator, and Agile facilitator.
 
 🥐 Location: France, Rennes
 
+🏢 Company: [Shodo Nantes](https://shodo.io/)
+
 ⚡ Statement: I love CSS ! <code><img height="17px" src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png" alt="CSS logo"/></code> and mob programming
 
 🌱 Learning: <a href="https://www.typescriptlang.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript logo"/></code></a>
 
-🌊 Founder: [Csscade](https://github.com/Csscade), the french community of web integrators. Come join us!
+🌊 Communities: I founded [Csscade](https://github.com/Csscade), the french community of web integrators. Come join us!
 
 ## Follow me
 
