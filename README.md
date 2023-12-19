@@ -29,7 +29,8 @@ You can find me on social medias, read my blog posts, book a meet on my calendar
 I spoke at :
 
 * <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/V3odxu6iRcCdZoNqUvT1_alpescraft.png" alt="AlpesCraft logo"/> [AlpesCraft](https://youtu.be/rzPwyMVVAQI) 2023 - "Crafting better UIs, thinking of the DOM as an API"
-* <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/RVSqur9xQ4SPVRR2jua0_promyze.png" alt="Promuze logo"/> [Webinar Promyze](https://youtu.be/_0-ZyuY0xdA) - "Crafting better UIs, thinking of the DOM as an API" + Bonus: "Are HTML and CSS real programming languages?"
+* <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/RVSqur9xQ4SPVRR2jua0_promyze.png" alt="Promyze logo"/> [Webinar Promyze](https://youtu.be/_0-ZyuY0xdA) - "Crafting better UIs, thinking of the DOM as an API" + Bonus: "Are HTML and CSS real programming languages?"
+* <img width="14px" src="https://whorunthetech.com/wp-content/uploads/2023/05/who-run-the-tech-logo-V2-1.png" alt="Who Run The Tech logo"/> [Who Run The Tech](https://youtu.be/ufdjnMGGYbk?si=5thhWGxtMhUSCrAM) - "Crafting better UIs, thinking of the DOM as an API" + loads of questions
 
 ## Women in tech
 
