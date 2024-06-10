@@ -45,9 +45,7 @@ I proudly participate in this movement to promote and help women and LGBT+ folks
 
 <img width="14px" src="https://media.licdn.com/dms/image/C4E0BAQF90_Jhto4x8g/company-logo_200_200/0/1663758297626?e=2147483647&v=beta&t=dP8fs6t31RyzFTzJSWhhEdr3Ec4mAE5HhHjJ2wDY3w0" alt="La Fresque Du Sexisme logo"/> Facilitator: [La Fresque Du Sexisme](https://fresque-du-sexisme.org/), an educational workshop that unravels, in 3 hours, the sexist mechanics at work in our societies.
 
-<img width="14px" src="https://estimnumerique.com/wp-content/uploads/2018/01/logo-estim-blanc-138x60.png" alt="ESTIMnumerique logo"/> Mentor:  [ESTIMnumerique](https://estimnumerique.com/), a french association which promotes and helps women in tech.
-
-<img width="14px" src="https://whorunthetech.com/wp-content/uploads/2023/05/who-run-the-tech-logo-V2-1.png" alt="Who Run The Tech logo"/> Teamer: [Who Run The Tech](https://whorunthetech.com/), the french 100% women and gender minorities tech experts event.
+<img width="14px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F27107bb5-5f64-423a-ad04-cd06e63a99d7%2Flogo.svg?table=block&id=778d46f8-46df-4486-b951-e03c9e0897cf&cache=v2" alt="ESTIMnumerique logo"/> Mentor: [CraftRecords](https://craftsrecords.org/), a french initiative which promotes and helps women becoming tech speakers.
 
 📖 Activist: I made a [guide](https://medium.com/@manon.carbonnel/favoriser-la-mixit%C3%A9-dans-les-conf%C3%A9rences-tech-un-guide-introduction-478ade9e96b3) for organization teams to promote diversity in tech conferences.
 
