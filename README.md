@@ -32,7 +32,8 @@ I spoke at :
 
 * <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/V3odxu6iRcCdZoNqUvT1_alpescraft.png" alt="AlpesCraft logo"/> [AlpesCraft](https://youtu.be/rzPwyMVVAQI) 2023 - "Crafting better UIs, thinking of the DOM as an API"
 * <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/RVSqur9xQ4SPVRR2jua0_promyze.png" alt="Promyze logo"/> [Webinar Promyze](https://youtu.be/_0-ZyuY0xdA) - "Crafting better UIs, thinking of the DOM as an API" + Bonus: "Are HTML and CSS real programming languages?"
-* <img width="14px" src="https://whorunthetech.com/wp-content/uploads/2023/05/who-run-the-tech-logo-V2-1.png" alt="Who Run The Tech logo"/> [Who Run The Tech](https://youtu.be/ufdjnMGGYbk?si=5thhWGxtMhUSCrAM) - "Crafting better UIs, thinking of the DOM as an API" + loads of questions
+* <img width="14px" src="https://whorunthetech.com/wp-content/uploads/2023/05/who-run-the-tech-logo-V2-1.png" alt="Who Run The Tech logo"/> [Who Run The Tech](https://youtu.be/ufdjnMGGYbk?si=5thhWGxtMhUSCrAM) 2023 - "Crafting better UIs, thinking of the DOM as an API" + loads of questions
+* <img width="14px" src="https://devfest2024.gdgnantes.com/images/logo-long.svg" alt="DevFest Nantes logo"/> [DevFest Nantes](https://devfest2024.gdgnantes.com/sessions/redecouvrir_la_cooperation___atelier_de_mob_programming/) 2024 - "Rediscover cooperation: Mob Programming Workshop" with [@Marjorie Aubert](https://github.com/Tagada26)
 
 I love podcasts, and sometimes I get invited:
 * 🎙️ Mobcast - [Episode 1](https://open.spotify.com/episode/5fkTzolcV8q0uPQ15tf9E0?si=9be9e3c2db5b44ec): "Comment mal recruter ?"
