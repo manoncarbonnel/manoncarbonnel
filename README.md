@@ -38,6 +38,7 @@ I spoke at :
 
 Next talks :
 * <img width="14px" src="https://touraine.tech/_nuxt/img/logo.97c6093.svg" alt=""/> [Touraine Tech](https://touraine.tech/) 2025 - "Rediscover cooperation: Mob Programming Workshop" with [@Marjorie Aubert](https://github.com/Tagada26)
+* <img width="14px" src="https://www.lyonjs.org/android-chrome-512x512.png" alt=""/> [Lyon JS](https://www.lyonjs.org/) 2025 - "Crafting better UIs, thinking of the DOM as an API"
 
 I love podcasts, and sometimes I get invited:
 * 🎙️ Mobcast - [Episode 1](https://open.spotify.com/episode/5fkTzolcV8q0uPQ15tf9E0?si=9be9e3c2db5b44ec): "Comment mal recruter ?"
