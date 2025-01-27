@@ -62,6 +62,10 @@ I proudly participate in this movement to promote and help women and LGBT+ folks
   <img width="50px" alt="Scrum.org PSM1 badge" src="https://static.scrum.org/web/badges/badge-psmi.svg"/>
 </a>
 
+<a href="https://certificate.bcdiploma.com/check/23ABCCCDE68ED3A512A42FD13C91F12825787809E985B26D0AC8BD00EE644A19amZ6QXMwbXFxUDRQV2gwNEFVMDhsYjMrSmVrS1VlVmlyUUpOZVhJMU0xQ0NnYXFU">
+  <img width="50px" alt="Access42 badge" src="https://media.licdn.com/dms/image/v2/C560BAQHqUiQJG_7UfA/company-logo_200_200/company-logo_200_200/0/1631311811891?e=2147483647&v=beta&t=ezx65WXBq7yS2l0Vzvv5YJDYCnud3EAAOjTr1k6mDfU"/>
+</a>
+
 ## Learn with me
 
 I care about clean code and testing. I believe in Agile and DevOps cultures.
