@@ -16,7 +16,7 @@ I am a web developper and integrator, and Agile facilitator.
 
 🌊 Communities: I founded [Csscade](https://github.com/Csscade), the french community of web integrators. Come join us!
 
-👥 Animator: I host mob programming sessions, with [MobProgFR Meetup](https://www.meetup.com/fr-FR/paris-mob-programming/). Especially women-only (and non-binary persons) sessions.
+👥 Animator: I host mob programming sessions, with [MobProgFR Meetup](https://linktr.ee/mobprogfr). Especially women-only (and non-binary persons) sessions.
 
 ## Follow me
 
