@@ -1,5 +1,3 @@
-![LYONJS43-min](https://github.com/user-attachments/assets/d06fbf9c-7400-4e03-ac09-dbaf02fd8b42)
-
 # Oh hi ! 👋
 
 I am a web developper and integrator, and Agile facilitator.
@@ -23,6 +21,10 @@ I am a web developper and integrator, and Agile facilitator.
 You can find me on social medias, read my blog posts, book a meet on my calendar or see my replays here :
 
 🍱 [Bento](https://bento.me/manoncarbonnel)
+
+***
+
+![LYONJS43-min](https://github.com/user-attachments/assets/d06fbf9c-7400-4e03-ac09-dbaf02fd8b42)
 
 ## Speaker
 
@@ -69,19 +71,6 @@ I proudly participate in this movement to promote and help women and LGBT+ folks
   <img width="50px" alt="Access42 badge" src="https://media.licdn.com/dms/image/v2/C560BAQHqUiQJG_7UfA/company-logo_200_200/company-logo_200_200/0/1631311811891?e=2147483647&v=beta&t=ezx65WXBq7yS2l0Vzvv5YJDYCnud3EAAOjTr1k6mDfU"/>
 </a>
 
-## Learn with me
-
-I care about clean code and testing. I believe in Agile and DevOps cultures.
-
-I love a good tutorial and documentation. So I made 4 repositories dedicated to clean code, dev tools, and test tools for:
-
-* 🎨 [CSS](https://github.com/manoncarbonnel/css-best-practices)
-* 🐘 [PHP](https://github.com/manoncarbonnel/php-tools-tutorials)
-* 🐍 [Python](https://github.com/manoncarbonnel/python-tools-tutorials)
-* 🟨 [JS](https://github.com/manoncarbonnel/js-tools-tutorials)
-
-Please don't hesitate to contribute if you find them useful.
-
 ***
 
 Interested with web integration and getting stuff done the easy and clean way ?
@@ -90,11 +79,7 @@ No ? 👉 read [this](https://medium.com/@manon.carbonnel/why-dont-developers-li
 
 Yes ? 👉 I teach about best practices in web integration and CSS.
 
-Here are my slides for beginners :
-
-<code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt=""/></code> [Part I - Basics](https://manoncarbonnel.github.io/css-best-practices/training/en/slides.html#1)
-
-<code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt=""/></code> [Part II - Preprocessors](https://manoncarbonnel.github.io/css-best-practices/training/en/preprocessors/slides.html#1)
+[!["Crafting better UIs, thinking of the DOM as an API"](https://img.youtube.com/vi/jZGWoGgeeJ0/0.jpg)](https://www.youtube.com/watch?v=jZGWoGgeeJ0)
 
 ***
 
