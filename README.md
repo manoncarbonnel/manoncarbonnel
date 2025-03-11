@@ -1,4 +1,4 @@
-![shodo-ghibli-ultrawide](https://github.com/manoncarbonnel/manoncarbonnel/assets/6471771/d5d28181-91fe-45e5-9ce5-0222259eaf6a)
+![LYONJS43-min](https://github.com/user-attachments/assets/d06fbf9c-7400-4e03-ac09-dbaf02fd8b42)
 
 # Oh hi ! 👋
 
@@ -36,12 +36,13 @@ I spoke at :
 * <img width="14px" src="https://devfest2024.gdgnantes.com/images/logo-long.svg" alt="DevFest Nantes logo"/> [DevFest Nantes](https://devfest2024.gdgnantes.com/sessions/redecouvrir_la_cooperation___atelier_de_mob_programming/) 2024 - "Rediscover cooperation: Mob Programming Workshop" with [@Marjorie Aubert](https://github.com/Tagada26)
 * <img width="14px" src="http://whorunthetech.com/wp-content/uploads/2023/05/who-run-the-tech-icone-V1.png" alt=""/> [Who Run The Tech](https://whorunthetech.com/) 2024 - "Rediscover cooperation: Mob Programming Workshop" with [@Marjorie Aubert](https://github.com/Tagada26)
 * <img width="14px" src="https://touraine.tech/_nuxt/img/logo.97c6093.svg" alt=""/> [Touraine Tech](https://touraine.tech/) 2025 - "Rediscover cooperation: Mob Programming Workshop" with [@Marjorie Aubert](https://github.com/Tagada26)
+* <img width="14px" src="https://www.lyonjs.org/android-chrome-512x512.png" alt=""/> [Lyon JS](https://youtu.be/jZGWoGgeeJ0?si=g7jel7k4TzZlc6W-) 2025 - "Crafting better UIs, thinking of the DOM as an API"
 
 Next talks :
 
-* <img width="14px" src="https://www.lyonjs.org/android-chrome-512x512.png" alt=""/> [Lyon JS](https://www.lyonjs.org/) 2025 - "Crafting better UIs, thinking of the DOM as an API"
 * <img width="14px" src="https://www.devoxx.fr/wp-content/uploads/2023/10/devoxxfrance.svg" alt=""/> [Devoxx France](https://www.devoxx.fr/) 2025 - "Rediscover cooperation: Mob Programming Workshop" with [@Marjorie Aubert](https://github.com/Tagada26)
 * <img width="14px" src="https://mixitconf.org/images/png/fbpreview.png" alt=""/> [MixiT](https://mixitconf.org/) 2025 - "Rediscover cooperation: Mob Programming Workshop" with [@Marjorie Aubert](https://github.com/Tagada26)
+* <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/V3odxu6iRcCdZoNqUvT1_alpescraft.png" alt=""/> [AlpesCraft](https://www.alpescraft.fr/) 2025 - “Make the change easy”: Taming legacy with Object Calisthenics
 
 I love podcasts, and sometimes I get invited:
 * 🎙️ Mobcast - [Episode 1](https://open.spotify.com/episode/5fkTzolcV8q0uPQ15tf9E0?si=9be9e3c2db5b44ec): "Comment mal recruter ?"
