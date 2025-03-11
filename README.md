@@ -6,7 +6,7 @@ I am a web developper and integrator, and Agile facilitator.
 
 🥐 Location: France, Rennes
 
-🏢 Company: [Shodo Nantes](https://shodo.io/)
+🏢 Company: [Shodo](https://shodo.io/)
 
 ⚡ Statement: I love CSS ! <code><img height="17px" src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png" alt="CSS logo"/></code> and mob programming
 
