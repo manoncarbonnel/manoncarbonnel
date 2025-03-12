@@ -2,6 +2,10 @@
 
 I am a web developper and integrator, and Agile facilitator.
 
+You can find me on social medias, read my blog posts, book a meet on my calendar or see my replays from my Bento page:
+
+<a href="https://bento.me/manoncarbonnel" target="_blank"><img width="25px" src="https://cdn.prod.website-files.com/6335b33630f88833a92915fc/63e501246a370e0d4462f2ed_herologo.png" alt="" /></a> 
+
 ⚡ Statement: CSS is awesome! and mob programming too
 
 🌱 Currently learning: <a href="https://www.typescriptlang.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript logo"/></code></a>
@@ -17,14 +21,6 @@ I like to practise programming with [code katas](https://github.com/manoncarbonn
 🐙 I love mob programming and facilitate discovery sessions with [MobProgFR Meetup](https://linktr.ee/mobprogfr). We have sessions every month, sometimes women and non-binary persons only, and you can request one and choose your code kata!
 
 🌊 I am passionnate about HTML / CSS and I created [Csscade](https://github.com/Csscade), the french web integrators community. Come join us!
-
-## Follow me
-
-You can find me on social medias, read my blog posts, book a meet on my calendar or see my replays from my Bento page :
-
-<a href="https://bento.me/manoncarbonnel" target="_blank">
-<img width="25px" src="https://cdn.prod.website-files.com/6335b33630f88833a92915fc/63e501246a370e0d4462f2ed_herologo.png" alt="" />
-</a>
 
 ## Speaker
 
