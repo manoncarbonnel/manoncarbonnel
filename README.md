@@ -2,33 +2,35 @@
 
 I am a web developper and integrator, and Agile facilitator.
 
-😄 Pronouns: She/Her
+⚡ Statement: CSS is awesome! and mob programming too
 
-🥐 Location: France, Rennes
+🌱 Currently learning: <a href="https://www.typescriptlang.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript logo"/></code></a>
 
-🏢 Company: [Shodo](https://shodo.io/)
+⭐️ Fav languages and tools:
 
-⚡ Statement: I love CSS ! <code><img height="17px" src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png" alt="CSS logo"/></code> and mob programming
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS logo"/></code></a> <a href="https://www.typescriptlang.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript logo"/></code></a> <a href="https://www.python.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python logo"/></code></a> <a href="https://www.php.net/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP logo"/></code></a> <a href="https://playwright.dev/"><code><img width="18px" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright logo"/></code></a>
 
-🌱 Learning: <a href="https://www.typescriptlang.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript logo"/></code></a>
+## Communities
 
-🌊 Communities: I founded [Csscade](https://github.com/Csscade), the french community of web integrators. Come join us!
+I like to practise programming with [code katas](https://github.com/manoncarbonnel?tab=repositories&q=kata).
 
-👥 Animator: I host mob programming sessions, with [MobProgFR Meetup](https://linktr.ee/mobprogfr). Especially women-only (and non-binary persons) sessions.
+🐙 I love mob programming and facilitate discovery sessions with [MobProgFR Meetup](https://linktr.ee/mobprogfr). We have sessions every month, sometimes women and non-binary persons only, and you can request one and choose your code kata!
+
+🌊 I am passionnate about HTML / CSS and I created [Csscade](https://github.com/Csscade), the french web integrators community. Come join us!
 
 ## Follow me
 
-You can find me on social medias, read my blog posts, book a meet on my calendar or see my replays here :
+You can find me on social medias, read my blog posts, book a meet on my calendar or see my replays from my Bento page :
 
-🍱 [Bento](https://bento.me/manoncarbonnel)
-
-***
-
-![LYONJS43-min](https://github.com/user-attachments/assets/d06fbf9c-7400-4e03-ac09-dbaf02fd8b42)
+<a href="https://bento.me/manoncarbonnel" target="_blank">
+<img width="25px" src="https://cdn.prod.website-files.com/6335b33630f88833a92915fc/63e501246a370e0d4462f2ed_herologo.png" alt="" />
+</a>
 
 ## Speaker
 
-<img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/9L67stmTvm9DSEGUPh3I_sessionize.png" alt=""/> I give [talks](https://sessionize.com/manon-carbonnel/) during brown bag lunches. You can send me a DM if you want to setup a meetup.
+<img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/9L67stmTvm9DSEGUPh3I_sessionize.png" alt=""/> I give [talks](https://sessionize.com/manon-carbonnel/) about various topics related to software craft in web integration (CSS), tests, object calisthenics, and a mob programming workshop. Feel free to send me a private message if you'd like to arrange a meeting.
+
+![LYONJS43-min](https://github.com/user-attachments/assets/d06fbf9c-7400-4e03-ac09-dbaf02fd8b42)
 
 I spoke at :
 
@@ -49,9 +51,19 @@ Next talks :
 I love podcasts, and sometimes I get invited:
 * 🎙️ Mobcast - [Episode 1](https://open.spotify.com/episode/5fkTzolcV8q0uPQ15tf9E0?si=9be9e3c2db5b44ec): "Comment mal recruter ?"
 
-## Women in tech
+***
 
-I proudly participate in this movement to promote and help women and LGBT+ folks:
+Interested with web integration and getting stuff done the easy and clean way ?
+
+No ? 👉 read [this](https://medium.com/@manon.carbonnel/why-dont-developers-like-css-947a1b2ecaaf).
+
+Yes ? 👉 I teach about best practices in web integration and CSS.
+
+[!["Crafting better UIs, thinking of the DOM as an API"](https://img.youtube.com/vi/jZGWoGgeeJ0/0.jpg)](https://www.youtube.com/watch?v=jZGWoGgeeJ0)
+
+## Woman in tech
+
+I proudly participate in a movement to promote and help women and LGBT+ folks:
 
 <img width="14px" src="https://github.com/DuchessFrance/duchessfr/blob/master/communication/Logo%20Worldwide/duchess_200x200pt_nobg.png?raw=true" alt=""/> Member: [Duchess France](http://www.duchess-france.fr/), a french community of women in tech.
 
@@ -63,27 +75,10 @@ I proudly participate in this movement to promote and help women and LGBT+ folks
 
 ## Certifications
 
-<a href="https://www.scrum.org/user/706587">
-  <img width="50px" alt="Scrum.org PSM1 badge" src="https://static.scrum.org/web/badges/badge-psmi.svg"/>
-</a>
-
-<a href="https://certificate.bcdiploma.com/check/23ABCCCDE68ED3A512A42FD13C91F12825787809E985B26D0AC8BD00EE644A19amZ6QXMwbXFxUDRQV2gwNEFVMDhsYjMrSmVrS1VlVmlyUUpOZVhJMU0xQ0NnYXFU">
-  <img width="50px" alt="Access42 badge" src="https://media.licdn.com/dms/image/v2/C560BAQHqUiQJG_7UfA/company-logo_200_200/company-logo_200_200/0/1631311811891?e=2147483647&v=beta&t=ezx65WXBq7yS2l0Vzvv5YJDYCnud3EAAOjTr1k6mDfU"/>
-</a>
-
-***
-
-Interested with web integration and getting stuff done the easy and clean way ?
-
-No ? 👉 read [this](https://medium.com/@manon.carbonnel/why-dont-developers-like-css-947a1b2ecaaf).
-
-Yes ? 👉 I teach about best practices in web integration and CSS.
-
-[!["Crafting better UIs, thinking of the DOM as an API"](https://img.youtube.com/vi/jZGWoGgeeJ0/0.jpg)](https://www.youtube.com/watch?v=jZGWoGgeeJ0)
-
-***
-
-I also like to practise programming with [code katas](https://github.com/manoncarbonnel?tab=repositories&q=kata).
+| Badge | Company |
+| -------- | ------- |
+| <img width="50px" alt="Scrum.org PSM1 badge" src="https://static.scrum.org/web/badges/badge-psmi.svg"/>  | [Scrum.org](https://www.scrum.org/user/706587)    |
+|  <img width="50px" alt="Access42 badge" src="https://media.licdn.com/dms/image/v2/C560BAQHqUiQJG_7UfA/company-logo_200_200/company-logo_200_200/0/1631311811891?e=2147483647&v=beta&t=ezx65WXBq7yS2l0Vzvv5YJDYCnud3EAAOjTr1k6mDfU"/> | [Access 42](https://certificate.bcdiploma.com/check/23ABCCCDE68ED3A512A42FD13C91F12825787809E985B26D0AC8BD00EE644A19amZ6QXMwbXFxUDRQV2gwNEFVMDhsYjMrSmVrS1VlVmlyUUpOZVhJMU0xQ0NnYXFU)     |
 
 ## Stats
 
