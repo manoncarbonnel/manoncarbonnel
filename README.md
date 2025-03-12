@@ -14,17 +14,9 @@ You can find me on social medias, read my blog posts, book a meet on my calendar
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS logo"/></code></a> <a href="https://www.typescriptlang.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript logo"/></code></a> <a href="https://www.python.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python logo"/></code></a> <a href="https://www.php.net/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP logo"/></code></a> <a href="https://playwright.dev/"><code><img width="18px" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright logo"/></code></a>
 
-## Communities
-
-I like to practise programming with [code katas](https://github.com/manoncarbonnel?tab=repositories&q=kata).
-
-🐙 I love mob programming and facilitate discovery sessions with [MobProgFR Meetup](https://linktr.ee/mobprogfr). We have sessions every month, sometimes women and non-binary persons only, and you can request one and choose your code kata!
-
-🌊 I am passionnate about HTML / CSS and I created [Csscade](https://github.com/Csscade), the french web integrators community. Come join us!
-
 ## Speaker
 
-<img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/9L67stmTvm9DSEGUPh3I_sessionize.png" alt=""/> I give [talks](https://sessionize.com/manon-carbonnel/) about various topics related to software craft in web integration (CSS), tests, object calisthenics, and a mob programming workshop. Feel free to send me a private message if you'd like to arrange a meeting.
+<img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/9L67stmTvm9DSEGUPh3I_sessionize.png" alt=""/> I give [talks](https://sessionize.com/manon-carbonnel/) about various topics related to software craft in web integration, CSS, testing, object calisthenics, and a mob programming workshop. Feel free to send me a private message if you'd like to arrange a meeting.
 
 ![LYONJS43-min](https://github.com/user-attachments/assets/d06fbf9c-7400-4e03-ac09-dbaf02fd8b42)
 
@@ -56,6 +48,14 @@ No ? 👉 read [this](https://medium.com/@manon.carbonnel/why-dont-developers-li
 Yes ? 👉 I teach about best practices in web integration and CSS.
 
 [!["Crafting better UIs, thinking of the DOM as an API"](https://img.youtube.com/vi/jZGWoGgeeJ0/0.jpg)](https://www.youtube.com/watch?v=jZGWoGgeeJ0)
+
+## Communities
+
+I like to practise programming with [code katas](https://github.com/manoncarbonnel?tab=repositories&q=kata).
+
+🐙 I love mob programming and facilitate discovery sessions with [MobProgFR Meetup](https://linktr.ee/mobprogfr). We have sessions every month, sometimes women and non-binary persons only, and you can request one and choose your code kata!
+
+🌊 I am passionnate about HTML / CSS and I created [Csscade](https://github.com/Csscade), the french web integrators community. Come join us!
 
 ## Woman in tech
 
