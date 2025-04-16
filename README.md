@@ -34,7 +34,9 @@ Next talks :
 
 * <img width="14px" src="https://www.devoxx.fr/wp-content/uploads/2023/10/devoxxfrance.svg" alt=""/> [Devoxx France](https://www.devoxx.fr/) 2025 - "Rediscover cooperation: Mob Programming Workshop" with [@Marjorie Aubert](https://github.com/Tagada26)
 * <img width="14px" src="https://mixitconf.org/images/png/fbpreview.png" alt=""/> [MixiT](https://mixitconf.org/) 2025 - "Rediscover cooperation: Mob Programming Workshop" with [@Marjorie Aubert](https://github.com/Tagada26)
-* <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/V3odxu6iRcCdZoNqUvT1_alpescraft.png" alt=""/> [AlpesCraft](https://www.alpescraft.fr/) 2025 - “Make the change easy”: Taming legacy with Object Calisthenics
+* <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/V3odxu6iRcCdZoNqUvT1_alpescraft.png" alt=""/> [AlpesCraft](https://www.alpescraft.fr/) 2025 - “Make the change easy”: Taming legacy with Object Calisthenics" with [Gaël Salaün](https://github.com/gsalaun1)
+* <img width="14px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFa-AjrpvuzoVViNLMj-StPDwo6R3HSl4HA&s" alt=""/> [BreizhCamp](https://www.breizhcamp.org/) 2025 - “Make the change easy”: Taming legacy with Object Calisthenics" with [Gaël Salaün](https://github.com/gsalaun1)
+* <img width="14px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFa-AjrpvuzoVViNLMj-StPDwo6R3HSl4HA&s" alt=""/> [BreizhCamp](https://www.breizhcamp.org/) 2025 - "Rediscover cooperation: Mob Programming Workshop"
 
 I love podcasts, and sometimes I get invited:
 * 🎙️ Mobcast - [Episode 1](https://open.spotify.com/episode/5fkTzolcV8q0uPQ15tf9E0?si=9be9e3c2db5b44ec): "Comment mal recruter ?"
