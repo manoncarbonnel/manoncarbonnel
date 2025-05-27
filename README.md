@@ -35,8 +35,9 @@ I spoke at :
 Next talks :
 * <img width="14px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0t2749W45Dk5Ap4Qznd5sxv5zMbRqvMkuXg" alt=""/> [Software Craft Lille](https://www.meetup.com/software-craftsmanship-lille/events/307437811) "Rediscover cooperation: Mob Programming Workshop" with [Nathan Castelein](https://www.linkedin.com/in/nathancastelein/)
 * <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/V3odxu6iRcCdZoNqUvT1_alpescraft.png" alt=""/> [AlpesCraft](https://www.alpescraft.fr/) 2025 - “Make the change easy”: Taming legacy with Object Calisthenics" with [Gaël Salaün]([https://github.com/gsalaun1](https://www.linkedin.com/in/gael-salaun/))
-* <img width="14px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFa-AjrpvuzoVViNLMj-StPDwo6R3HSl4HA&s" alt=""/> [BreizhCamp](https://www.breizhcamp.org/) 2025 - “Make the change easy”: Taming legacy with Object Calisthenics" with [Gaël Salaün]([https://github.com/gsalaun1](https://www.linkedin.com/in/gael-salaun/))
 * <img width="14px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFa-AjrpvuzoVViNLMj-StPDwo6R3HSl4HA&s" alt=""/> [BreizhCamp](https://www.breizhcamp.org/) 2025 - "Rediscover cooperation: Mob Programming Workshop" with [Thomas Ployon](https://www.linkedin.com/in/thomas-ployon-8bb9a2176/)
+* <img width="14px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFa-AjrpvuzoVViNLMj-StPDwo6R3HSl4HA&s" alt=""/> [BreizhCamp](https://www.breizhcamp.org/) 2025 - “Make the change easy”: Taming legacy with Object Calisthenics" with [Gaël Salaün]([https://github.com/gsalaun1](https://www.linkedin.com/in/gael-salaun/))
+* <img width="14px" src="https://agile-paysbasque.fr/favicon-144.png" alt=""/> [Agile Pays Basque](https://agile-paysbasque.fr/) 2025 - "Rediscover cooperation: Mob Programming Workshop"
 
 I love podcasts, and sometimes I get invited:
 * 🎙️ Mobcast - [Episode 1](https://open.spotify.com/episode/5fkTzolcV8q0uPQ15tf9E0?si=9be9e3c2db5b44ec): "Comment mal recruter ?"
