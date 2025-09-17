@@ -35,8 +35,6 @@ I spoke at :
 * <img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/V3odxu6iRcCdZoNqUvT1_alpescraft.png" alt=""/> [AlpesCraft](https://www.alpescraft.fr/) 2025 - “Make the change easy”: Taming legacy with Object Calisthenics" with [Gaël Salaün]([https://github.com/gsalaun1](https://www.linkedin.com/in/gael-salaun/))
 * <img width="14px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFa-AjrpvuzoVViNLMj-StPDwo6R3HSl4HA&s" alt=""/> [BreizhCamp](https://www.breizhcamp.org/) 2025 - "Rediscover cooperation: Mob Programming Workshop" with [Thomas Ployon](https://www.linkedin.com/in/thomas-ployon-8bb9a2176/)
 * <img width="14px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFa-AjrpvuzoVViNLMj-StPDwo6R3HSl4HA&s" alt=""/> [BreizhCamp](https://youtu.be/BGZXNJ8t61c?si=rx5xSm8zX3EfMd5J) 2025 - “Make the change easy”: Taming legacy with Object Calisthenics" with [Gaël Salaün]([https://github.com/gsalaun1](https://www.linkedin.com/in/gael-salaun/))
-
-Next talks :
 * <img width="14px" src="https://agile-paysbasque.fr/favicon-144.png" alt=""/> [Agile Pays Basque](https://agile-paysbasque.fr/) 2025 - "Rediscover cooperation: Mob Programming Workshop"
 
 I love podcasts, and sometimes I get invited:
