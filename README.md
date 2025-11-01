@@ -1,6 +1,6 @@
 # Oh hi ! 👋
 
-I am a web developper and integrator, and Agile facilitator.
+I am a web developper and integrator, software crafter and Agile facilitator.
 
 You can find me on social medias, read my blog posts, book a meet on my calendar or see my replays from my Bento page:
 
