@@ -1,6 +1,10 @@
 # Oh hi ! 👋
 
-I am a web developper and integrator, software crafter and Agile facilitator.
+Front-end and back-end web developer, expert in web integration, design systems, and accessibility.
+
+Specializing in automated testing (unit, component, mutation, UI, visual regression, accessibility) and static analysis.
+
+I guide teams toward software craft practices through facilitation, mentoring, and leading workshops (pair and mob programming, TDD, testing, coding dojos, Agile mindset).
 
 You can find me on social medias, read my blog posts, book a meet on my calendar or see my replays from my Bento page:
 
@@ -16,7 +20,7 @@ You can find me on social medias, read my blog posts, book a meet on my calendar
 
 ## Speaker
 
-<img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/9L67stmTvm9DSEGUPh3I_sessionize.png" alt=""/> I give [talks](https://sessionize.com/manon-carbonnel/) about various topics related to software craft in web integration, CSS, testing, object calisthenics, and a mob programming workshop. Feel free to send me a private message if you'd like to arrange a meeting.
+<img width="14px" src="https://d1fdloi71mui9q.cloudfront.net/9L67stmTvm9DSEGUPh3I_sessionize.png" alt=""/> Speaker and facilitator: I regularly organize and speak at conferences. Feel free to contact me if you'd like to organize a [talks](https://sessionize.com/manon-carbonnel/) (workshop or conference) on topics you're passionate about.
 
 ![LYONJS43-min](https://github.com/user-attachments/assets/d06fbf9c-7400-4e03-ac09-dbaf02fd8b42)
 
@@ -60,9 +64,9 @@ I like to practise programming with [code katas](https://github.com/manoncarbonn
 
 ## Woman in tech
 
-I proudly participate in a movement to promote and help women and LGBT+ folks:
+✊ Commitment to diversity: I am actively involved in promoting diversity in tech. As a Yeeso Leader in Rennes, facilitator of La Fresque Du Sexisme workshop, and mentor, I advocate for greater inclusion of women and LGBT+ people in our field. I hold a certification in accessible website development.
 
-<img width="14px" src="https://github.com/DuchessFrance/duchessfr/blob/master/communication/Logo%20Worldwide/duchess_200x200pt_nobg.png?raw=true" alt=""/> Member: [Duchess France](http://www.duchess-france.fr/), a french community of women in tech.
+<img width="14px" src="https://media.licdn.com/dms/image/v2/D4D0BAQEYNuIuNvPLmA/company-logo_200_200/company-logo_200_200/0/1736246630622/itwomen_by_yeeso_logo?e=2147483647&v=beta&t=b0wjnZxr34Do1PRkoRK-5G2-s6l9uteIFkXkgoeL0zc" alt=""/> Leader: [Yeeso](https://yeeso.fr/) Rennes, a french community of women in tech.
 
 <img width="14px" src="https://media.licdn.com/dms/image/C4E0BAQF90_Jhto4x8g/company-logo_200_200/0/1663758297626?e=2147483647&v=beta&t=dP8fs6t31RyzFTzJSWhhEdr3Ec4mAE5HhHjJ2wDY3w0" alt=""/> Facilitator: [La Fresque Du Sexisme](https://fresque-du-sexisme.org/), an educational workshop that unravels, in 3 hours, the sexist mechanics at work in our societies.
 
