@@ -48,9 +48,11 @@ Yes ? 👉 I teach about best practices in web integration and CSS.
 
 I like to practise programming with [code katas](https://github.com/manoncarbonnel?tab=repositories&q=kata).
 
-🐙 I love mob programming and facilitate discovery sessions with [MobProgFR Meetup](https://linktr.ee/mobprogfr). We have sessions every month, sometimes women and non-binary persons only, and you can request one and choose your code kata!
+🐙 I love mob programming and facilitate discovery sessions with. We have sessions every month, sometimes women and non-binary persons only, and you can request one and choose your code kata!
 
 🌊 I am passionnate about HTML / CSS and I created [Csscade](https://github.com/Csscade), the french web integrators community. Come join us!
+
+<img width="14px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F27107bb5-5f64-423a-ad04-cd06e63a99d7%2Flogo.svg?table=block&id=778d46f8-46df-4486-b951-e03c9e0897cf&cache=v2" alt=""/> Mentor: [CraftRecords](https://craftsrecords.org/), a french initiative which promotes and helps women becoming tech speakers.
 
 ## Woman in tech
 
@@ -60,7 +62,7 @@ I like to practise programming with [code katas](https://github.com/manoncarbonn
 
 <img width="14px" src="https://media.licdn.com/dms/image/C4E0BAQF90_Jhto4x8g/company-logo_200_200/0/1663758297626?e=2147483647&v=beta&t=dP8fs6t31RyzFTzJSWhhEdr3Ec4mAE5HhHjJ2wDY3w0" alt=""/> Facilitator: [La Fresque Du Sexisme](https://fresque-du-sexisme.org/), an educational workshop that unravels, in 3 hours, the sexist mechanics at work in our societies.
 
-<img width="14px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F27107bb5-5f64-423a-ad04-cd06e63a99d7%2Flogo.svg?table=block&id=778d46f8-46df-4486-b951-e03c9e0897cf&cache=v2" alt=""/> Mentor: [CraftRecords](https://craftsrecords.org/), a french initiative which promotes and helps women becoming tech speakers.
+<img width="14px" src="https://ousontlesdeveloppeuses.fr/favicon.ico" alt=""/> Contributor: [Où sont les développeuses](https://ousontlesdeveloppeuses.fr/) a community platform for women and non-binary persons made to : gain visibility and build brand awareness, find speakers for your tech events, identify truly inclusive businesses.
 
 📖 Activist: I made a [guide](https://medium.com/@manon.carbonnel/favoriser-la-mixit%C3%A9-dans-les-conf%C3%A9rences-tech-un-guide-introduction-478ade9e96b3) for organization teams to promote diversity in tech conferences.
 
