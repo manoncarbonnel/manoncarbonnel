@@ -8,7 +8,7 @@ I guide teams toward software craft practices through facilitation, mentoring, a
 
 You can find me on social medias, read my blog posts, book a meet on my calendar or see my replays from my Bento page:
 
-<a href="https://bento.me/manoncarbonnel" target="_blank"><img width="25px" src="https://cdn.prod.website-files.com/6335b33630f88833a92915fc/63e501246a370e0d4462f2ed_herologo.png" alt="" /></a> 
+<a href="https://linktr.ee/manoncarbonnel" target="_blank"><img width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlKIYump8aLWlsxtPAA3BL2JJjHsK4NAFHw&s" alt="" /></a> 
 
 ⚡ Statement: CSS is awesome! and mob programming too
 
