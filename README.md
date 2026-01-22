@@ -2,11 +2,11 @@
 
 Front-end and back-end web developer, expert in web integration, design systems, and accessibility.
 
-Specializing in automated testing (unit, component, mutation, UI, visual regression, accessibility) and static analysis.
+Specialized in automated testing (unit, component, mutation, UI, visual regression, accessibility) and static analysis.
 
-I guide teams toward software craft practices through facilitation, mentoring, and leading workshops (pair and mob programming, TDD, testing, coding dojos, Agile mindset).
+I support teams in adopting software craft practices through facilitation, mentoring, and hands-on workshops (pair & mob programming, TDD, testing, coding dojos, Agile mindset).
 
-You can find me on social medias, read my blog posts, book a meet on my calendar or see my replays from my Bento page:
+You can find me on social medias, read my blog posts, book a meet on my calendar or see my replays from my Linktree:
 
 <a href="https://linktr.ee/manoncarbonnel" target="_blank"><img width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlKIYump8aLWlsxtPAA3BL2JJjHsK4NAFHw&s" alt="" /></a> 
 
