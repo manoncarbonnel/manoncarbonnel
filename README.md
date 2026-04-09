@@ -26,10 +26,11 @@ You can find me on social medias, read my blog posts, book a meet on my calendar
 
 I spoke at:
 
-* “Crafting better UIs, thinking of the DOM as an API” [📺](https://youtu.be/jZGWoGgeeJ0?si=g7jel7k4TzZlc6W-) LyonJS 2025, Who Run The Tech 2023, AlpesCraft 2023
-* “Rediscover cooperation: Mob Programming Workshop” DevFest Nantes 2024, Who Run The Tech 2024, Touraine Tech 2025, Devoxx France 2025, MixiT 2025, Breizhcamp 2025, Agile Pays Basque 2025
-* "Make the change easy”: Taming legacy with Object Calisthenics" [📺](https://youtu.be/BGZXNJ8t61c?si=rx5xSm8zX3EfMd5J) Alpes Craft 2025, Breizhcamp 2025
-* “HTML & CSS: Algorithms? A kata? Without JS? Really?” SoCraTes France 2025, Alpes Craft 2025 
+* “Crafting better UIs, thinking of the DOM as an API” [📺](https://youtu.be/jZGWoGgeeJ0?si=g7jel7k4TzZlc6W-) - LyonJS 2025, Who Run The Tech 2023, AlpesCraft 2023
+* “Rediscover cooperation: Mob Programming Workshop” - DevFest Nantes 2024, Who Run The Tech 2024, Touraine Tech 2025, Devoxx France 2025, MixiT 2025, Breizhcamp 2025, Agile Pays Basque 2025
+* "Make the change easy”: Taming legacy with Object Calisthenics" [📺](https://youtu.be/BGZXNJ8t61c?si=rx5xSm8zX3EfMd5J) - Alpes Craft 2025, Breizhcamp 2025
+* “HTML & CSS: Algorithms? A kata? Without JS? Really?” - SoCraTes France 2025, Alpes Craft 2025 
+* "When Accessibility Meets Mob Programming: Practice, Test, Fix Together" (with Emmanuelle Aboaf) - Devoxx France 2026, Tech'Work 2026, DevLille 2026
 
 I love podcasts, and sometimes I get invited:
 * 🎙️ Mobcast - [Episode 1](https://open.spotify.com/episode/5fkTzolcV8q0uPQ15tf9E0?si=9be9e3c2db5b44ec): "Comment mal recruter ?"
