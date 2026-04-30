@@ -7,9 +7,9 @@ I'm a full-stack web developer focused on building reliable, accessible and main
 - Designing robust front & back architectures
 - Building design systems and reusable UI (web components)
 - Ensuring software quality through testing:
-  - unit, component, UI
+  - unit, mutation
+  - component, UI & visual regression
   - accessibility
-  - mutation & visual regression
 - Leveraging static analysis to keep codebases healthy
 
 **🤝 How I work**
