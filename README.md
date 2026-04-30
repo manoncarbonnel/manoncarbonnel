@@ -1,22 +1,38 @@
 # Oh hi ! 👋
 
-Front-end and back-end web developer, expert in web integration, design systems, and accessibility.
+I'm a full-stack web developer focused on building reliable, accessible and maintainable web applications.
 
-Specialized in automated testing (unit, component, mutation, UI, visual regression, accessibility) and static analysis.
+**🧩 What I care about**
 
-I support teams in adopting software craft practices through facilitation, mentoring, and hands-on workshops (pair & mob programming, TDD, testing, coding dojos, Agile mindset).
+- Designing robust front & back architectures
+- Building design systems and reusable UI (web components)
+- Ensuring software quality through testing:
+  - unit, component, UI
+  - accessibility
+  - mutation & visual regression
+- Leveraging static analysis to keep codebases healthy
 
-You can find me on social medias, read my blog posts, book a meet on my calendar or see my replays from my Linktree:
+**🤝 How I work**
 
-<a href="https://linktr.ee/manoncarbonnel" target="_blank"><img width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlKIYump8aLWlsxtPAA3BL2JJjHsK4NAFHw&s" alt="" /></a> 
+I believe software is a team thing.
+
+- software teaming & Agile practices
+- TDD, pair & mob programming
+- cooperative practices & facilitation
+- learning by doing (coding dojos, katas)
+
+<a href="https://linktr.ee/manoncarbonnel" target="_blank"><img width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlKIYump8aLWlsxtPAA3BL2JJjHsK4NAFHw&s" alt="" /></a>  You can find me on social medias, read my blog posts, book a meet on my calendar or see my replays from my Linktree
 
 ⚡ Statement: CSS is awesome! and mob programming too
 
-🌱 Currently learning: <a href="https://www.typescriptlang.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript logo"/></code></a>
+🌱 Currently learning: <a href="https://www.typescriptlang.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png" alt="TypeScript logo"/></code></a>
 
-⭐️ Fav languages and tools:
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS logo"/></code></a> <a href="https://www.typescriptlang.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript logo"/></code></a> <a href="https://www.python.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python logo"/></code></a> <a href="https://www.php.net/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP logo"/></code></a> <a href="https://playwright.dev/"><code><img width="18px" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright logo"/></code></a>
+**⭐️ Fav languages and tools:**
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1920px-CSS3_logo_and_wordmark.svg.png" alt="CSS logo"/></code></a>
+<a href="https://www.typescriptlang.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png" alt="TypeScript logo"/></code></a>
+<a href="https://www.python.org/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" alt="Python logo"/></code></a>
+<a href="https://www.php.net/"><code><img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP logo"/></code></a>
+<a href="https://playwright.dev/"><code><img width="18px" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright logo"/></code></a>
 
 ## Speaker
 
@@ -30,7 +46,8 @@ I spoke at:
 * “Rediscover cooperation: Mob Programming Workshop” - DevFest Nantes 2024, Who Run The Tech 2024, Touraine Tech 2025, Devoxx France 2025, MixiT 2025, Breizhcamp 2025, Agile Pays Basque 2025
 * "Make the change easy”: Taming legacy with Object Calisthenics" [📺](https://youtu.be/BGZXNJ8t61c?si=rx5xSm8zX3EfMd5J) - Alpes Craft 2025, Breizhcamp 2025
 * “HTML & CSS: Algorithms? A kata? Without JS? Really?” - SoCraTes France 2025, Alpes Craft 2025 
-* "When Accessibility Meets Mob Programming: Practice, Test, Fix Together" (with Emmanuelle Aboaf) - Devoxx France 2026, Tech'Work 2026, DevLille 2026
+* "When Accessibility Meets Mob Programming: Practice, Test, Fix Together" (with Emmanuelle Aboaf) - Devoxx France 2026, Tech'Work 2026, DevLille 2026, BreizhCamp 2026
+* "UI Testing: Making quality accessible to the whole team" - BreizhCamp 2026
 
 I love podcasts, and sometimes I get invited:
 * 🎙️ Mobcast - [Episode 1](https://open.spotify.com/episode/5fkTzolcV8q0uPQ15tf9E0?si=9be9e3c2db5b44ec): "Comment mal recruter ?"
@@ -46,6 +63,8 @@ Yes ? 👉 I teach about best practices in web integration and CSS.
 [!["Crafting better UIs, thinking of the DOM as an API"](https://img.youtube.com/vi/jZGWoGgeeJ0/0.jpg)](https://www.youtube.com/watch?v=jZGWoGgeeJ0)
 
 ## Communities
+
+I value an inclusive, collaborative and sustainable tech.
 
 I like to practise programming with [code katas](https://github.com/manoncarbonnel?tab=repositories&q=kata).
 
